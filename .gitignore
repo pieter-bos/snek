@@ -1,0 +1,5 @@
+.bsp/
+.idea/
+target/
+project/
+z3.log
